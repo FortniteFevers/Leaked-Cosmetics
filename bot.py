@@ -10,11 +10,11 @@ init()
 
 #-----------------------#
 
-apikey = 'b8f04d76-413b547e-15425588-111d0274'
+apikey = 'XXXXX'
+# API KEY FROM fortniteapi.io ^
 
 filepath = 'C:/Users/User/Desktop/Leaked Cosmetics'
 # PUT FILE PATH UP HERE ^
-
 
 language = 'en'
 
