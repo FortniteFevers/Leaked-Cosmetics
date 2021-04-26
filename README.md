@@ -1,5 +1,5 @@
 # Leaked-Cosmetics
-A bot to grab leaked fortnite cosmetics very easily
+A verry shitty way to grab leaked fortnite cosmetics very easily
 - Powered by fortniteapi.io
 
 ## READ:
